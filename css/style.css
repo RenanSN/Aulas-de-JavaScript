@@ -1,0 +1,74 @@
+/* fonte */
+@import url('https://fonts.googleapis.com/css?family=Fira+Code&display=swap');
+#firacode{
+    font-family: 'Fira Code', ;
+}
+
+body{
+    background-color: #2a2a2e;
+}
+#navbar{
+    /* background-color:#ffd500c2; */
+    background-color:#ffd600;
+    color: #2a2a2e;
+    /* text-shadow: 3px 3px 9px black; */
+}
+hr{
+    border-color: #000000; 
+}
+#hrw{
+    border-color: blanchedalmond;
+}
+.borda{
+    border-radius: 0px;
+    border-color: black;
+}
+
+/* Padroes cartões Js */
+#cardjs{
+    /* background-image: linear-gradient(-90deg, #ffc100 , #ffa400); */
+    background-color: #ffc100;
+    font-family: 'Fira Code';
+    color: #2a2a2e;
+    text-align-last: center;
+}
+#edjs{
+    color: #ffa400;
+    text-align-last: center;
+}
+
+/* Padroes cartões JQuery */
+#cardjq{
+    /* background-image: linear-gradient(to bottom right, #0769ad, #78cff5); */
+    background-color: #0769ad;
+    font-family: 'Fira Code';
+    color: #f4f4f4;
+    text-align-last: center;
+}
+#edjq{
+    color: #78cff5;
+    text-align-last: center;
+}
+
+/* Padroes cartões Bootstrap */
+#cardbt{
+    /* background-image: linear-gradient(#8f5bdd, #4a1d8b); */
+    background-color: #8e44ad;
+    font-family: 'Fira Code';
+    color: #f4f4f4;
+    text-align-last: center;
+}
+#edbt{
+    color: #8f5bdd;
+    text-align-last: center;
+}
+
+/* DOWNLOADS */
+#downloadt{
+    text-align-last: center;
+}
+#downloadb{
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
