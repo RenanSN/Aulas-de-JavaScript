@@ -1,0 +1,31 @@
+//Declara as variaveis
+var inteira1=10;
+var inteira2=20;
+var float1=10.00001;
+var float2=20.00002;
+var string1="!!!!!!";
+var string2="@@@@@@";
+var boolean1=true;
+var boolean2=false;
+//Escreve o valor das variáveis no documento
+document.write("> Lista com os valores das variáveis: <br>");
+document.write("<br>");
+document.write("Variáveis inteiras: <br>");
+document.write("=================== <br>");
+document.write("Primeira: " + inteira1 + "<br>");
+document.write("Segunda: " + inteira2 + "<br>");
+document.write("<br>");
+document.write("Variáveis float: <br>");
+document.write("=================== <br>");
+document.write("Primeira: " + float1 + "<br>");
+document.write("Segunda: " + float2 + "<br>");
+document.write("<br>");
+document.write("Variáveis string: <br>");
+document.write("=================== <br>");
+document.write("Primeira: " + string1 + "<br>");
+document.write("Segunda: " + string2 + "<br>");
+document.write("<br>");
+document.write("Variáveis boolean: <br>");
+document.write("=================== <br>");
+document.write("Primeira: " + boolean1 + "<br>");
+document.write("Segunda: " + boolean2 + "<br>");

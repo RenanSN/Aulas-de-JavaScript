@@ -23,6 +23,12 @@ hr{
     border-radius: 0px;
     border-color: black;
 }
+section{
+    background-color: #38383d;
+}
+#bgf{
+    background-color: #7f8c8d;
+}
 
 /* Padroes cartões Js */
 #cardjs{
