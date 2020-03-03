@@ -1,0 +1,37 @@
+<html lang=“pt-br”>
+	<head>
+		<title> Extra </title>
+		<meta charset=“UTF-8”>
+        <script src="Extra.js"></script>
+		<!--<script>
+			//Definição da Função
+			function calcular(){
+				var tag=document.forms["curso"];
+				var nome=tag.elements["fNome"].value;
+				var nota1=tag.elements["fNota1"].value;
+				var nota2=tag.elements["fNota2"].value;
+				var media=(eval(nota1)+eval(nota2))/2;
+				tag.elements["fMedia"].value = media;
+			}	
+		</script>-->
+
+	</head>
+	<body>
+		<!--Criando um formulario com nome curso -->
+		<form name="curso" action="#" method="post">
+			<label>Nome</label><br>
+			<input type="text" name="fNome" value="Digite seu nome"><br><br>
+			<label>Nota1</label><br>
+			<input type="text" name="fNota1"><br><br>
+			<label>Nota2</label><br>
+			<input type="text" name="fNota2"><br><br>
+			<label> Nota 3 </label><br>
+            <input type="text" name="fNota3"><br><br>
+            <label> Nota 4 </label><br>
+            <input type="text" name="fNota4"><br><br>
+			<label>Média</label><br>
+			<input type="text" name="fMedia" disabled><br><br>
+			<input type="button" value="Confirmar" onclick="calcular();" >
+		</form>
+	</body>
+</html>

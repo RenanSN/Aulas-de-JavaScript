@@ -1,0 +1,28 @@
+<html lang=“pt-br”>
+    <head>
+        <title>Curso de Javascript 32</title>
+        <meta charset="UTF-8">
+        <script src="Ex32.js"></script>
+        <!--<script>
+        //Definição da Função
+        function confirma(){
+            //Atribui os dados do form na variavel tag
+            var tag=document.forms["curso"];
+            //Atribui o valor do text fNome na variavel nome
+            var nome=tag.elements["fNome"].value;
+            alert("Obrigado "+nome+"!!!\nSeus dados foram gravados!");
+        }
+        </script>-->
+    </head>
+    <body>
+        <!--Criando um formulario com nome do curso-->
+        <form name="curso" action="#" method="post">
+            <label> Nome </label><br>
+            <input type="text" name="fNome" value="Digite seu nome"><br><br>
+            <label> Senha </label><br>
+            <input type="password" name="fSenha"><br><br>
+            <!--Botão-->
+            <input type="button" value="Confirmar" onclick="confirma();">
+        </form>
+    </body>
+</html>

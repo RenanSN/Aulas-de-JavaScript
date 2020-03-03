@@ -1,7 +1,7 @@
 <!-- ![https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://img.shields.io/badge/LANGUAGE-JAVASCRIPT-yellow) -->
 
 <h1 align="center">
-    <a href="#"><img src="img/icon-javascript.png" width="40"></a>
+    <img src="https://img.icons8.com/ios-filled/40/343a40/javascript.png">
     Aulas de JavaScript
 </h1>
 

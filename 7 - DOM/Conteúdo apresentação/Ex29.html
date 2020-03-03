@@ -1,0 +1,35 @@
+<html lang=“pt-br”>
+    <head>
+        <title>Curso de Javascript 29</title>
+        <meta charset="UTF-8">
+        <script src="Ex29.js"></script>
+        <!--<script>
+        //Definição da Função
+        function TituloFont(cor){
+            //Criar a variavel titulo e atribui a ela o objeto h3
+            var titulo = document.getElementById("titulo");
+            //Muda a cor do titulo para a cor que veio como parametro
+            titulo.style.color = cor;
+        }
+        </script>-->
+    </head>
+    <body>
+        <!--Criando um titulo h3 com o id titulo-->
+        <h1 id='titulo'> Minha Página com Javascript </h1>
+        <br> Fonte do Titulo:
+        <!--Criando botões que chamam a função passando a cor desejado-->
+        <input type="button" value="Vermelho" onclick="TituloFont('#FF0000');">
+        <input type="button" value="Verde" onclick="TituloFont('Green');">
+        <input type="button" value="Azul" onclick="TituloFont('Blue');">
+        <input type="button" value="Rosa" onclick="TituloFont('Pink');">
+        <input type="button" value="Amarelo" onclick="TituloFont('rgb(255, 255, 0');">
+        <input type="button" value="Preto" onclick="TituloFont('#000000');">
+        <input type="button" value="Carmesin" onclick="TituloFont('crimson');">
+        <input type="button" value="Cinza" onclick="TituloFont('gray');">
+        <input type="button" value="Roxo" onclick="TituloFont('purple');">
+        <input type="button" value="Bordo" onclick="TituloFont('#b22222');">
+        <input type="button" value="Turquesa" onclick="TituloFont('turquoise');">
+        <input type="button" value="Azul Escuro" onclick="TituloFont('darkblue');">
+        <hr>
+    </body>
+</html>

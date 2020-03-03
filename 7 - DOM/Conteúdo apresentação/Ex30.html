@@ -1,0 +1,24 @@
+<html lang=“pt-br”>
+    <head>
+        <title>Curso de Javascript 30</title>
+        <meta charset="UTF-8">
+        <script src="Ex30.js"></script>
+        <!--<script>
+        //Definição da Função
+        function mudaTexto(texto){
+            //Criar a variavel paragrafo e atribui a ela o objeto p
+            var paragrafo = document.getElementById("texto");
+            paragrafo.innerHTML=texto;
+        }
+        </script>-->
+    </head>
+    <body>
+        <!--Criando um paragrafo com o id texto-->
+        <p id="texto"> Curso de Javascript </p>
+        <!--Criando botões que chamam a função passando o texto desejado-->
+        <input type="button" value="Novo Texto" onclick="mudaTexto('Programação Web','rgb(255, 255, 0)');">
+        <input type="button" value="Texto Original" onclick="mudaTexto('Curso de Javascript','purple');">
+        <input type="button" value="R.S.N." onclick="mudaTexto('R.S.N.','darkblue');">
+        <input type="button" value="StarWars" onclick="mudaTexto('Venha para o Lado Negro da Força','#FF0000')">
+    </body>
+</html>

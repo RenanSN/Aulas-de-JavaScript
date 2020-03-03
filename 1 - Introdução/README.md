@@ -30,5 +30,5 @@
 <hr>
 
 <h1 align="center">
-    <a href="https://github.com/RenanSN/Aulas-de-JavaScript/releases/download/Aula-1/1.-.Introducao.rar"><img src="https://img.icons8.com/wired/34/000000/downloads-folder.png"></a> Download 
+    <a href="https://github.com/RenanSN/Aulas-de-JavaScript/releases/download/Aula-1/1.-.Introducao.rar"><img src="https://img.icons8.com/wired/34/000000/downloads-folder.png">Download</a>  
 </h1>
