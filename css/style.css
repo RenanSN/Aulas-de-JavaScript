@@ -14,6 +14,13 @@ body{
     /* text-shadow: 3px 3px 9px black; */
     text-decoration: none;
 }
+#navbarjq{
+    /* background-color:#ffd500c2; */
+    background-color:#0769ad;
+    color: #f4f4f4;
+    /* text-shadow: 3px 3px 9px black; */
+    text-decoration: none;
+}
 hr{
     border-color: #000000; 
 }
