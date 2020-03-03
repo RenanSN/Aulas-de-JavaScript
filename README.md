@@ -5,11 +5,13 @@
     Aulas de JavaScript
 </h1>
 
-<h5 align="center">
+<h4 align="center">
     Aulas de Pogramação Web 1 do Primeiro Semestre de 2019
-</h5>
+</h4>
 
-**Objetivo:** Criar uma pagina para organizar todas as aulas de **PW1** (**P**rogramação **W**eb **1**) relacionas a **JavaScript**, **Jquery** e **Bootstrap**, podendo visualizar todos exemplos e desafios das aulas e ter opções de download de todos os conteudos.
+<p align="justify">
+    <b>Objetivo:</b> Criar uma pagina para organizar todas as aulas de <b>PW1</b> (<b>P</b>rogramação <b>W</b>eb <b>1</b>) relacionas a <b>JavaScript</b>, <b>Jquery</b> e <b>Bootstrap</b>, podendo visualizar todos exemplos e desafios das aulas e ter opções de download de todos os conteudos.
+</p>
 
 ##### Professor e Orientador das aulas: [Diego Meruoca](https://github.com/DiegoMeruoca)
 

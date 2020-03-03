@@ -12,6 +12,7 @@ body{
     background-color:#ffd600;
     color: #2a2a2e;
     /* text-shadow: 3px 3px 9px black; */
+    text-decoration: none;
 }
 hr{
     border-color: #000000; 
@@ -28,6 +29,9 @@ section{
 }
 #bgf{
     background-color: #7f8c8d;
+}
+div, a, h1, h2, h3, h4, h5, h6{
+    text-decoration: none;
 }
 
 /* Padroes cartões Js */
