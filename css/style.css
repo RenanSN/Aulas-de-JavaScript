@@ -15,10 +15,13 @@ body{
     text-decoration: none;
 }
 #navbarjq{
-    /* background-color:#ffd500c2; */
     background-color:#0769ad;
     color: #f4f4f4;
-    /* text-shadow: 3px 3px 9px black; */
+    text-decoration: none;
+}
+#navbarbt{
+    background-color:#8e44ad;
+    color: #f4f4f4;
     text-decoration: none;
 }
 hr{

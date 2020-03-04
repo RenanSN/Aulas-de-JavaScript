@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<!-- Meta tags Obrigatórias -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Bootstrap CSS (online) -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<title> Desafio 34 </title>
+	</head>
+	<body>
+		<h2 class="container">Calculadora Responsiva</h2>
+		<form class="container">
+			<div class="form-group">
+				<label for="num1">Primeiro número</label>
+				<input type="text" class="form-control" id="num1">
+		    </div>
+			<div class="form-group">
+				<label for="num2">Segundo número</label>
+				<input type="text" class="form-control" id="num2">
+		    </div>
+			<button type="button" id="btSoma" class="btn btn-primary">+</button>
+			<button type="button" id="btSub" class="btn btn-secondary">-</button>
+			<button type="button" id="btMult" class="btn btn-danger">*</button>
+			<button type="button" id="btDiv" class="btn btn-dark">/</button>
+		</form>
+		<br>
+		<div class="alert alert-success container" id="resultado" style="display:none">
+			Resultado da soma:
+		</div>
+		<div class="alert alert-danger container" id="erro" style="display:none">
+			Impossível divir por zero!!!
+		</div>
+		<!-- JavaScript (Opcional) -->
+		<!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+		<script src="Desafio34.js"></script>
+	</body>
+</html>

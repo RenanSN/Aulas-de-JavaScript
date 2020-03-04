@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<!-- Meta tags Obrigatórias -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Bootstrap CSS (online) -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+		<title> Desafio 37 </title>
+	</head>
+	<body>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">
+                <img src="../Conteúdo apresentação/img Bootstrap/game3.png" height=40px class="d-inline-block align-top">
+                <span class="text-info">Best Games</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" 
+                aria-controls="myNavbar" aria-expanded="false" aria-label="Alterna navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Playstation 4</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Xbox One</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Nintendo Switch</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#MyModal">
+                        Login
+                    </button>
+                </form>
+            </div>
+        </nav>
+        <div id="myCarousel" class="carousel slide position-relative" data-ride="carousel" >
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+                <li data-target="#myCarousel" data-slide-to="4"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="../Conteúdo apresentação/img Bootstrap/img1.jpg" alt="Primeiro Slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="../Conteúdo apresentação/img Bootstrap/img2.jpg" alt="Segundo Slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="../Conteúdo apresentação/img Bootstrap/img3.jpg" alt="Terceiro Slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="../Conteúdo apresentação/img Bootstrap/img4.jpg" alt="Terceiro Slide">
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="../Conteúdo apresentação/img Bootstrap/img5.jpg" alt="Terceiro Slide">
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Anterior</span>
+            </a>
+            <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Próximo</span>
+            </a>
+        </div>
+        <div class="modal fade" id="MyModal" tabindex="-1" role="dialog" aria-labelledby="ModCenter" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="ModCenter">Login</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form>
+                            <div class="form-group">
+                                <label>Endereço de email</label>
+                                <input type="email" class="form-control" placeholder="Seu email">
+                            </div>
+                            <div class="form-group">
+                                <label>Senha</label>
+                                <input type="password" class="form-control" placeholder="Senha">
+                            </div>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
+                        <button type="button" class="btn btn-primary">Confirmar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="media" style="text-align:justify; margin:3px">
+            <img class="mr-2 align-self-center" src="../Conteúdo apresentação/img Bootstrap/ps4.png" alt="Imagem do produto 1" width=30%>
+            <div class="media-body align-self-center">
+                <h5 class="mt-0">Playstation 4 Slim</h5>
+                O Console PS4 é uma obra prima. Ele é até quatro vezes mais rápido que seu 
+                antecessor (o Playstation 3), possui controle sem fio DualShock 4 com sensor 
+                de movimento e bateria recarregável, disco rígido de 1 TB e ainda permite a 
+                opção multiplayer por meio do PS Plus para você jogar online com seus amigos. 
+            </div>
+        </div>
+        <div class="media" style="text-align:justify; margin:3px;">
+            <div class="media-body align-self-center">
+                <h5 class="mt-0">Xbox One</h5>
+                Já em sua terceira versão, depois dos Xbox One e Xbox One S, o Xbox One X 
+                faz sua experiência gamer ser ainda mais extraordinária.
+                <br>Você navega em um mundo totalmente imersivo com qualidade 4k e 40% mais 
+                potência que os outros consoles do mercado.
+            </div>
+            <img class="mr-2 align-self-center" src="../Conteúdo apresentação/img Bootstrap/xbone.png" alt="Imagem do produto 2" width=30%>
+        </div>
+        <div class="media" style="text-align:justify; margin:3px;">
+            <img class="mr-2 align-self-center" src="../Conteúdo apresentação/img Bootstrap/nintendo.png" alt="Imagem do produto 3" width=30%>
+            <div class="media-body align-self-center">
+                <h5 class="mt-0">Nintendo Switch</h5>
+                Nintendo Switch é o mais recente console da empresa japonesa Nintendo. 
+                Lançado dia 3 de março de 2017, o videogame promete oferecer a potência de 
+                um console de mesa unido à praticidade de um portátil. Jogos de peso já fazem
+                parte do repertório do Nintendo Switch, como The Legend of Zelda: Breath of 
+                the Wild, Super Mario Odyssey, Splatoon, Pokémon Let's Go e Super Smash Bros. 
+            </div>
+        </div>
+        <!-- JavaScript (Opcional) -->
+		<!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+	</body>
+</html>
