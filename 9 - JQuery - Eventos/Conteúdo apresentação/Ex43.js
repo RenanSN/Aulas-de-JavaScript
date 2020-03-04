@@ -1,0 +1,11 @@
+$("document").ready(function(){
+    $("#azul").click(function(){
+        $("#corpo").css({backgroundColor:"#191970",color:"#87CEFA"});
+    });
+    $("#rosa").click(function(){
+        $("#corpo").css({backgroundColor:"#FF69B4",color:"#FF1493"});
+    });
+    $("#claro").click(function(){
+        $("#corpo").css({backgroundColor:"white",color:"black"});
+    });
+});
