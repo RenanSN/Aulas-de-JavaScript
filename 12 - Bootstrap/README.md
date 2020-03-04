@@ -1,5 +1,5 @@
 <h1 align="center">
-    Aula 11 - Bootstrap
+    <img src="https://img.icons8.com/windows/40/000000/bootstrap.png"> Aula 12 - Bootstrap
 </h1>
 
 <div align="center">
