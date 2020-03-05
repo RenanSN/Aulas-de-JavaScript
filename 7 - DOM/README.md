@@ -9,20 +9,20 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 28</a></li>
-    <li><a href="#">Exemplo 29</a></li>
-    <li><a href="#">Exemplo 30</a></li>
-    <li><a href="#">Exemplo 31</a></li>
-    <li><a href="#">Exemplo 32</a></li>
-    <li><a href="#">Exemplo 33</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex28.html">Exemplo 28</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex29.html">Exemplo 29</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex30.html">Exemplo 30</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex31.html">Exemplo 31</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex32.html">Exemplo 32</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex33.html">Exemplo 33</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 20</a></li>
-    <li><a href="#">Desafio 21</a></li>
-    <li><a href="#">Desafio 22</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Desafios%20feitos/Desafio20.html">Desafio 20</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Desafios%20feitos/Desafio21.html">Desafio 21</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/7%20-%20DOM/Desafios%20feitos/Desafio22.html">Desafio 22</a></li>
 </div>
 
 

@@ -9,20 +9,20 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 37</a></li>
-    <li><a href="#">Exemplo 38</a></li>
-    <li><a href="#">Exemplo 39</a></li>
-    <li><a href="#">Exemplo 40</a></li>
-    <li><a href="#">Exemplo 41</a></li>
-    <li><a href="#">Exemplo 42</a></li>
-    <li><a href="#">Exemplo 43</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex37.html">Exemplo 37</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex38.html">Exemplo 38</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex39.html">Exemplo 39</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex40.html">Exemplo 40</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex41.html">Exemplo 41</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex42.html">Exemplo 42</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex43.html">Exemplo 43</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 26</a></li>
-    <li><a href="#">Desafio 27</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Desafios%20feitos/Desafio26.html">Desafio 26</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/9%20-%20JQuery%20-%20Eventos/Desafios%20feitos/Desafio27.html">Desafio 27</a></li>
 </div>
 
 

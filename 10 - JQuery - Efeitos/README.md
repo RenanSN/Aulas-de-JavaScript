@@ -9,22 +9,22 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 44</a></li>
-    <li><a href="#">Exemplo 45</a></li>
-    <li><a href="#">Exemplo 46</a></li>
-    <li><a href="#">Exemplo 47</a></li>
-    <li><a href="#">Exemplo 48</a></li>
-    <li><a href="#">Exemplo 49</a></li>
-    <li><a href="#">Exemplo 50</a></li>
-    <li><a href="#">Exemplo 51</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex44.html">Exemplo 44</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex45.html">Exemplo 45</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex46.html">Exemplo 46</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex47.html">Exemplo 47</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex48.html">Exemplo 48</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex49.html">Exemplo 49</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex50.html">Exemplo 50</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex51.html">Exemplo 51</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 28</a></li>
-    <li><a href="#">Desafio 29</a></li>
-    <li><a href="#">Desafio 30</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Desafios%20feitos/Desafio28.html">Desafio 28</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Desafios%20feitos/Desafio29.html">Desafio 29</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/10%20-%20JQuery%20-%20Efeitos/Desafios%20feitos/Desafio30.html">Desafio 30</a></li>
 </div>
 
 

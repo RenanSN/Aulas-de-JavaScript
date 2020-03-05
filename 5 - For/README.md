@@ -9,17 +9,17 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 19</a></li>
-    <li><a href="#">Exemplo 20</a></li>
-    <li><a href="#">Exemplo 21</a></li>
-    <li><a href="#">Exemplo 22</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/5%20-%20For/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex19.html">Exemplo 19</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/5%20-%20For/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex20.html">Exemplo 20</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/5%20-%20For/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex21.html">Exemplo 21</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/5%20-%20For/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex22.html">Exemplo 22</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 15</a></li>
-    <li><a href="#">Desafio 16</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/5%20-%20For/Desafios%20feitos/Desafio15.html">Desafio 15</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/5%20-%20For/Desafios%20feitos/Desafio16.html">Desafio 16</a></li>
 </div>
 
 

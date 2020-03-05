@@ -15,5 +15,5 @@
 
 #### Professor e Orientador das aulas: [Diego Meruoca](https://github.com/DiegoMeruoca)
 
-
+#### [Clique aqui para acessar a pagina](https://renansn.github.io/Aulas-de-JavaScript/)
 

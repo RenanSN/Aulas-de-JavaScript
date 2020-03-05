@@ -9,17 +9,17 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 34</a></li>
-    <li><a href="#">Exemplo 35</a></li>
-    <li><a href="#">Exemplo 36</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/8%20-%20JQuery/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex34.html">Exemplo 34</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/8%20-%20JQuery/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex35.html">Exemplo 35</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/8%20-%20JQuery/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex36.html">Exemplo 36</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 23</a></li>
-    <li><a href="#">Desafio 24</a></li>
-    <li><a href="#">Desafio 25</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/8%20-%20JQuery/Desafios%20feitos/Desafio23.html">Desafio 23</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/8%20-%20JQuery/Desafios%20feitos/Desafio24.html">Desafio 24</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/8%20-%20JQuery/Desafios%20feitos/Desafio25.html">Desafio 25</a></li>
 </div>
 
 

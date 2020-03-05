@@ -9,18 +9,18 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 61</a></li>
-    <li><a href="#">Exemplo 62</a></li>
-    <li><a href="#">Exemplo 63</a></li>
-    <li><a href="#">Exemplo 64</a></li>
-    <li><a href="#">Exemplo 65</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex61.html">Exemplo 61</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex62.html">Exemplo 62</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex63.html">Exemplo 63</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex64.html">Exemplo 64</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex65.html">Exemplo 65</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 36</a></li>
-    <li><a href="#">Desafio 37</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Desafios%20feitos/Desafio36.html">Desafio 36</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/13%20-%20Bootstrap%20-%20Componentes/Desafios%20feitos/Desafio37.html">Desafio 37</a></li>
 </div>
 
 
