@@ -9,23 +9,23 @@
 
 ### Exemplos (Conteúdo da apresentação):
 <div>
-    <li><a href="#">Exemplo 9</a></li>
-    <li><a href="#">Exemplo 10</a></li>
-    <li><a href="#">Exemplo 11</a></li>
-    <li><a href="#">Exemplo 12</a></li>
-    <li><a href="#">Exemplo 13</a></li>
-    <li><a href="#">Exemplo 14</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex9.html">Exemplo 9</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex10.html">Exemplo 10</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex11.html">Exemplo 11</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex12.html">Exemplo 12</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex13.html">Exemplo 13</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Conte%C3%BAdo%20apresenta%C3%A7%C3%A3o/Ex14.html">Exemplo 14</a></li>
 </div>
 
 
 ### Desafios (Desafios feitos):
 <div>
-    <li><a href="#">Desafio 7</a></li>
-    <li><a href="#">Desafio 8</a></li>
-    <li><a href="#">Desafio 9</a></li>
-    <li><a href="#">Desafio 10</a></li>
-    <li><a href="#">Desafio 11</a></li>
-    <li><a href="#">Desafio 12</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Desafios%20feitos/Desafio7.html">Desafio 7</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Desafios%20feitos/Desafio8.html">Desafio 8</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Desafios%20feitos/Desafio9.html">Desafio 9</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Desafios%20feitos/Desafio10.html">Desafio 10</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Desafios%20feitos/Desafio11.html">Desafio 11</a></li>
+    <li><a href="https://renansn.github.io/Aulas-de-JavaScript/3%20-%20If,%20else%20e%20switch%20case/Desafios%20feitos/Desafio12.html">Desafio 12</a></li>
 </div>
 
 
